@@ -74,7 +74,7 @@ double volume_tabung (double r, double t){
 }
 
 int tampilan_tabung(){
-    double jari2, tinggi;
+    float jari2, tinggi;
     int ulang;
     char pilihan;
 
